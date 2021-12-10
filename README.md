@@ -6,6 +6,9 @@ SubQuery powers the next generation of Polkadot dApps by allowing developers to 
 
 This subquery example adds a reverse lookup field on Account.myToAddress meaning that it is accessible from the Account entity but is just a reference or pointer back to Transfer.to.
 
+# SubQuery Example - Account transfers Reverse Lookup : Result
+![alt text](https://github.com/TsuyuKenchuu/SubQuery-Module-3-Exercise-Account-Transfer-with-Reverse-Lookup/blob/master/SubQuery-M03-EX3.JPG?raw=true)
+
 # Getting Started
 
 ### 1. Clone the entire subql-example repository
